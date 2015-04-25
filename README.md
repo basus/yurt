@@ -1,6 +1,6 @@
 # Yurt
 
-From [Wikipedia](http://en.wikipedia.org/wiki/Yurt}:
+From [Wikipedia](http://en.wikipedia.org/wiki/Yurt):
 
 > A traditional yurt (from Turkic) or ger (Mongolian) is a portable, round tent
 > covered with skins or felt used as a dwelling by nomads in the steppes of
